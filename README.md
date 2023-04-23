@@ -1,2 +1,1 @@
-# sorting_algorithms
-Doubly and Singly list
+sorting algorithms repository
